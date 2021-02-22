@@ -1,2 +1,3 @@
+include ':gstlib'
 include ':app'
 rootProject.name = "MoviesMVVM"
